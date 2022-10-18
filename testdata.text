@@ -54,7 +54,7 @@ SELECT item FROM shop WHERE id=2;
 =A1+A2	計算式の確認
 	タブの確認
 
-
+■WYSIWYGで表示確認しているもの
 太字
 
 斜体
@@ -88,7 +88,6 @@ SELECT item FROM shop WHERE id=2;
 24pt
 36pt
 
-
 フォントカラー
 
 フォント背景色
@@ -99,34 +98,7 @@ SELECT item FROM shop WHERE id=2;
 
 9999999999999999999999999999999999999999999999999999999
 
-
-
-==
-太字
-
-
-左寄せ
-
-中央寄せ
-
-右寄せ
-
-リスト
-
-いち
-に
-さん
-
-いち
-に
-さん
-
-
-フォントカラー
-
 インデント
-
-リンク
 
 ===HTMLソース用===
 <br />&lt;font color="red"&gt;あ&lt;/font&gt;&amp;"'&lt;hr&gt;&amp;nbsp;"' &lt;&gt;&amp;&lt;B&gt;!"#$%&amp;'()=~|--^\@['{;:]+*},./\&lt;&gt;?_&lt;/B&gt;￠ー－～―‐￣-髙﨑～~^^^&lt;?php echo("hello"); ?&gt;<br /><br />
@@ -149,7 +121,6 @@ SELECT item FROM shop WHERE id=2;
 <hr />
 <p style="padding-left: 30px;">インデント</p>
 <p><a title="google" href="http://google.com/" target="_blank">リンク</a><br /><br /></p>
-
 
 
 
