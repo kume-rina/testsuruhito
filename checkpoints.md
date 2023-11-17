@@ -1,4 +1,4 @@
-# checkpoins in tests
+# checkpoints in tests
 
 ## checkpoints in WYSIWYG editor
 ### 文字と表示/characters and styles
